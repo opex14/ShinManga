@@ -1,0 +1,63 @@
+.tblnw {
+white-space: nowrap;
+}
+.readpdg { /*padding-top: 51px; */
+max-width: 1010px;}
+
+.sidebar-module {
+margin-bottom: 15px;
+}
+#bigimg {
+cursor: pointer;
+}
+.navbar-brand {
+color: #367fc0 !important;
+}
+.thumb {
+margin: 4px;
+border: 1px dashed #CFCFCF;
+}
+
+.prevbg { 
+background-color: white; 
+text-align: center;
+}
+.content-row-fk h3{
+font: 700 18px/20px Arial,"Helvetica Neue",Helvetica,sans-serif;
+}
+@media (min-width: 992px){
+.meta-fk{
+padding-left: 0;
+}
+.content-row-fk h3{
+margin-top: 0;
+}
+}
+.tags a {
+  color: #FFF;
+white-space: nowrap;
+  line-height: 30px;
+  border: 1px solid #AAA;
+  background-color: #8F8F8F;
+  padding: 4px;
+  border-radius: 2px;
+}
+body {
+background: url("/style/img/debut_light.png") repeat scroll 0% 0% #FFF;
+}
+a{
+color: #367fc0;
+}
+.content-row-fk {
+  table-layout: fixed;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background-color: #FAFAFA;
+  border: 1px solid #DDD;
+  display: table;
+  margin-bottom: 15px;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
