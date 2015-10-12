@@ -9,7 +9,7 @@ define('CFG_MYSQL_HOST', "localhost");
 define('CFG_MYSQL_USER', "");
 define('CFG_MYSQL_PASSWORD', "");
 define('CFG_MYSQL_DATABASE', "");
-define('CFG_MYSQL_PREFIX', "");
+define('CFG_MYSQL_PREFIX', "mng_");
 
 define('CFG_ONPAGE', 15);
 define('CFG_PREVIEW_HEIGHT', 200);
